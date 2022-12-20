@@ -82,7 +82,7 @@ body {
 <body>
 
 <div class="topnav">
-  <a class="active" href="qUESTION">Home</a>
+  <a class="active" href="question.html">Home</a>
   <a href="#about">About</a>
   <a href="#contact">Contact</a>
   <div class="search-container">
