@@ -83,8 +83,8 @@ body {
   
   <div class="right" style="background-color:#ddd;">
     <h2>Page Content</h2>
-    <p>Gaming With Maariz.</p>
-    <p>..</p>
+    <p>Subscribe to Gaming With Maariz</p>
+    <p></p>
   </div>
 </div>
 
